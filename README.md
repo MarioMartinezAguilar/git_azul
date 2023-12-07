@@ -2,7 +2,7 @@
 **Proyecto de Git**
 
 [//]:# (Listas enumeradas)
-###Listas enumeradas
+### Listas enumeradas
 
 1. Index.html
 2. information.txt
